@@ -27,7 +27,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip install python-dotenv
 
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Setup the directory with `setup.py`
+   ```sh
+   python setup.py
    ```
