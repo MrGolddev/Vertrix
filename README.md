@@ -14,21 +14,20 @@ _Below is an example of how you can instruct your audience on installing and set
    pip install discord.py
    ```
       ```sh
-   pip install discord.py
+   pip install ollama
+
    ```
-         ```sh
-   pip install discord.py
+   ```sh
+   pip install sv_ttk
+
    ```
       ```sh
-   pip install discord.py
+   pip install pillow
+
    ```
-      ```sh
-   pip install discord.py
-   ```
-         ```sh
-   pip install discord.py
-   ```
-   
+   ```sh
+   pip install python-dotenv
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
