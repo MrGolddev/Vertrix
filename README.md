@@ -30,3 +30,5 @@
    ```sh
    python setup.py
    ```
+
+4. Then run the `Main.py` then idk it should work ig
